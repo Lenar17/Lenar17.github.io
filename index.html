@@ -148,7 +148,7 @@
                 <h2 class="section-title"><i class="fa fa-briefcase"></i>ПОРТФОЛИО</h2>
 
                 <div class="row">
-                    <div class="col-md-4 col-sm-6" v-for="(item, index) in items" :key="index">
+                    <div class="col-md-6 col-sm-6" v-for="(item, index) in items" :key="index">
                         <a :href="`item.html?id=${index}`" class="indexLink">
                             <div class="listBox">
                                 <div class="imageListBox" :style="{ backgroundImage : `url(${item.img})`  }"></div>
