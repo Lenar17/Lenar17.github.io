@@ -1,0 +1,113 @@
+@font-face {
+    font-family: ApothicaireBold;
+    src: url(../fonts/Apothicaire-Bold.otf);
+}
+@font-face {
+    font-family: Apothicaire-BoldCd;
+    src: url(../fonts/Apothicaire-BoldCd.otf);
+}
+@font-face {
+    font-family: Apothicaire-Regular;
+    src: url(../fonts/Apothicaire-Regular.otf);
+}
+@font-face {
+    font-family: Genera;
+    src: url(../fonts/Genera.ttf) format("truetype");
+}
+@font-face {
+    font-family: Genera-Bold;
+    src: url(../fonts/Genera-SemiBold.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+.opacity__null {
+    opacity: 0;
+}
+.opacity__full {
+    opacity: 100;
+}
+svg use {
+    fill: currentColor;
+}
+.section {
+    height: 100vh;
+    width: 100%;
+}
+.first__page__content__wrapper {
+    text-align: center;
+    width: 60%;
+}
+.first__page {
+    background-color: #6492da;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.second__page {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+.first__page__title {
+    font-size: 80px;
+    color: #ffffff;
+}
+.second__page__content__wrapper {
+    max-width: 60%;
+}
+.first__svg__logo {
+    width: 100%;
+    margin-bottom: 60px;
+    animation-duration: 7s;
+}
+.first__p {
+    font-family: Genera;
+    font-size: 30px;
+    color: rgba(239, 239, 239, 1);
+}
+.second__p {
+    font-family: Genera;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.down__btn {
+    color: #ffffff;
+    width: 30px;
+    position: absolute;
+    bottom: 100px;
+    cursor: pointer;
+}
+.second__page__logo {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 12%;
+}
+.icons__block {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+.svg__icon__link {
+    width: 30px;
+    cursor: pointer;
+    margin-right: 10px;
+    display: inline-block;
+}
+.email__block {
+    padding: 3px 30px;
+    font-family: Genera;
+    font-size: 20px;
+    margin-right: 10px;
+    border: 1px solid #e7e7e7;
+    font-weight: bold;
+    border-radius: 10px;
+}
