@@ -50,8 +50,8 @@ function initAnimations() {
 		delay: 0.5,
 		duration: 2,
 		opacity: 1,
-		width: window.innerWidth < 376 ? '165vw' : '100vw',
-		maxWidth: window.innerWidth < 376 ? '165vw' : '100vw',
+		width: window.innerWidth < 450 ? '165vw' : '100vw',
+		maxWidth: window.innerWidth < 450 ? '165vw' : '100vw',
 		ease: 'power3.inOut'
 	});
 	console.log('window.innerHeight ', window.innerWidth)

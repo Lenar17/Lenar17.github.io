@@ -223,4 +223,8 @@ body {
     .gallery__left {
         margin-top: calc(var(--gallery-gap) * 0.7);
     }
+    /*.color__wave {*/
+    /*    max-width: 165vw;*/
+    /*    width: 165vw;*/
+    /*}*/
 }
