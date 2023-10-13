@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="105882f5-2583-4f06-834a-5c02f2949427" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/fonts/outfit-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/raleway-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/WEBCANVAS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/__.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/color-wave.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logo-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logo-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/me.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/offer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/whale.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/work/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/work/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/work/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/work/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/work/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/work/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/kgl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/libs/gsap/ScrollSmoother.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/libs/gsap/ScrollTrigger.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/libs/gsap/gsap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/w-icon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="105882f5-2583-4f06-834a-5c02f2949427" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697189935143</updated>
-      <workItem from="1697189936643" duration="10383000" />
+      <workItem from="1697189936643" duration="11020000" />
     </task>
     <servers />
   </component>
