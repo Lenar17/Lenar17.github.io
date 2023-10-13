@@ -1,13 +1,135 @@
 <!doctype html>
-<html lang=ru>
+<html lang=ru xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Webcanvas</title>
+    <link rel="icon" type="image/svg+xml" href="public/w-icon.svg"/>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap"
+          rel="stylesheet"/>
+    <link href="public/styles/index.css" rel="stylesheet">
+    <script src="public/libs/gsap/gsap.min.js" defer></script>
+    <script src="public/libs/gsap/ScrollTrigger.min.js" defer></script>
+    <script src="public/libs/gsap/ScrollSmoother.min.js" defer></script>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-    <p>EDIT SITE!</p>
+<div class="wrapper">
+    <div class="content">
+        <header class="hero-section">
+            <div>
+                <div data-speed=".75" class="main-header">
+                    <div class="logo-description">
+                        <div class="logo-box">
+                            <img class="logo__left" src="public/img/logo-left.svg" alt="webcanvas logo-left"/>
+                            <img class="logo__right" src="public/img/logo-right.svg" alt="webcanvas logo-right"/>
+                        </div>
+                        <h1 class="main-title">webcanvas</h1>
+                        <p class="main-subtitle">Стильный WEB дизайн</p>
+                        <div class="image-box">
+                            <img data-speed=".6" class="hero" src="public/img/whale.webp" alt="webcanvas whale"/>
+                        </div>
+                        <img data-speed=".8" class="color__wave" src="public/img/color-wave.png"
+                             alt="webcanvas color-wave"/>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="portfolio">
+            <div class="container">
+                <main class="gallery">
+
+                    <div data-speed=".9" class="gallery__left">
+
+                        <a href="https://www.figma.com/proto/kZxQfqegnIU1SPICFQQjAh/KST-Concept?page-id=0%3A1&type=design&node-id=1-2&viewport=579%2C396%2C0.46&t=PhK2QKq13eVTtsST-1&scaling=scale-down-width&mode=design" target="_blank">
+                            <img class="gallery__item" src="public/img/work/1.png" alt="Комплекс строительных технологий"/>
+                        </a>
+
+                        <a href="https://www.figma.com/proto/rZqfqan4lShCqEdtGpL4bN/BITROCKET?page-id=0%3A1&type=design&node-id=1-3&viewport=716%2C-4154%2C0.93&t=AqmG2KlzoxQ8FGRq-1&scaling=min-zoom&mode=design" target="_blank">
+                            <img class="gallery__item" src="public/img/work/2.png" alt="Bitrocket"/>
+                        </a>
+
+
+                        <div class="text-block gallery__item">
+                            <h2 class="text-block__h">Дизайн который привлекает и
+                                удерживает вашего клиента</h2>
+                            <p class="text-block__p">WEBCANVAS обладает огромной компетенцией в создании дизайна сайтов к которым хочется возвращаться, наслаждаться их простым и понятным интерфейсом</p>
+                        </div>
+
+                        <a href="https://www.figma.com/proto/dNE3ZlCc9wNDRFiMHPHr43/MainAdminApp?page-id=0%3A1&type=design&node-id=306-2&viewport=551%2C260%2C0.14&t=S0I12pZypCJoeoKC-1&scaling=min-zoom&mode=design" target="_blank">
+                            <img class="gallery__item" src="public/img/work/6.png" alt="Административная панель ЭТП Тендерим"/>
+                        </a>
+
+
+                    </div>
+
+                    <div data-speed="1.1" class="gallery__right">
+
+                        <div class="text-block gallery__item">
+                            <h2 class="text-block__h">Креативный и стильный дизайн, удобный и дружелюбный
+                                интерфейс</h2>
+                            <p class="text-block__p">WEB дизайн - это не просто впечатляющие изображения и
+                                правильно подобранная типографика. Главная задача, создать максимально удобный и
+                                продуманный интерфейс в сочетании с потрясающей анимацией и графикой</p>
+                        </div>
+
+                        <a href="https://www.figma.com/proto/hTTxmI6TApAZDxZxVRMzKX/SPARTA?type=design&node-id=0-1&viewport=345%2C498%2C0.15&t=LakSBXCJwahpG2Vd-0&scaling=min-zoom&starting-point-node-id=761%3A4" target="_blank">
+                            <img class="gallery__item" src="public/img/work/4.png" alt="Sparta robot"/>
+                        </a>
+                        <a href="https://www.figma.com/proto/HFk6FCkDK1mbLBSfMINsMsRX/saleTour?page-id=0%3A1&type=design&node-id=62-9&viewport=-22%2C212%2C0.62&t=BieaNVIt9Bx4MZNH-1&scaling=min-zoom&mode=design" target="_blank">
+                            <img class="gallery__item" src="public/img/work/5.png" alt="One Dollar Trips"/>
+                        </a>
+                        <a href="https://www.figma.com/proto/k2YIEtPxrYDLFbQ2MhPjGG/Galaxy-Vending?page-id=0%3A1&type=design&node-id=93-4&viewport=1481%2C-100%2C0.55&t=gST8ZFZTh57n9A8T-1&scaling=min-zoom&mode=design" target="_blank">
+                            <img class="gallery__item" src="public/img/work/3.png" alt="Школьный вендинговый аппарат"/>
+                        </a>
+
+                    </div>
+
+                </main>
+            </div>
+        </div>
+
+        <div class="offer-box">
+            <div class="p-[60px] rounded-[10px] flex bg-gradient-to-b from-[#141213] to-[#201C1C] inline relative max-w-[65%] border border-[#3333]">
+                <img id="img" src="public/img/WEBCANVAS.png" alt="WEBCANVAS" class="mr-[60px] h-0 hidden md:block"/>
+                <div class="flex flex-col justify-between" id="cont">
+                    <div class="mb-[2vh]">
+                        <p class="text-[#E4EFEC] text-[5vw] leading-[5.2vw] md:text-[3vw] md:leading-[3.2vw] mb-[20px]">
+                            WEBCANVAS - понятие, которое объединяет в себе разные направления в дизайне
+                        </p>
+                        <p class="text-[#CDC6C3] text-[2vw] lg:text-[1vw]">
+                            WEB дизайн важная составляющая творчества команды WEBCANVAS.
+                            Готовность творить для вас лучшие дизайн решения и современные интерфейсы в WEB -
+                            бесконечна!
+                        </p>
+                    </div>
+                    <div class="flex flex-col md:items-center p-[20px] border border-[#393435] rounded-[20px] lg:flex-row">
+                        <img src="public/img/me.jpg" class="me"/>
+                        <p class="text-[2vw] lg:text-[1vw]">
+                            Привет! Меня зовут Ленар.<br/>
+                            Все свои пожелания относительно WEB дизайна вы можете обсудить со мной. <br/>
+                            Просто напишите мне в Telegram - <a class="text-[#87b9ff]"
+                                                                href="tg://resolve?domain=@webcanvas">@webcanvas</a> или
+                            на Email - <a class="text-[#87b9ff]"
+                                          href="mailto:webcanvas@icloud.com?subject=Хочу заказать классный web дизайн!">webcanvas@icloud.com</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="flex text-center content-center justify-center w-[100%] pt-[50px] pb-[30px]">
+            <p id="footer-year"></p>
+        </div>
+
+        <script src="public/js/app.js" defer></script>
+        <script src="public/js/kgl.js" defer/></script>
+    </div>
+</div>
 </body>
 </html>
