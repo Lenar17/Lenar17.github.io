@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="105882f5-2583-4f06-834a-5c02f2949427" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WEBCANVAS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles-3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles-4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles-5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles-6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo-canvas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/profile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/min/main-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vue.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/default/base.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/default/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/default/responsive.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/default/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/default/theme-default.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-2/base.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-2/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-2/responsive.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-2/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-2/theme-default.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-3/base.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-3/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-3/responsive.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-3/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-3/theme-default.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-4/base.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-4/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-4/responsive.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-4/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-4/theme-default.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-5/base.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-5/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-5/responsive.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-5/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-5/theme-default.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-6/base.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-6/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-6/responsive.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-6/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/less/theme-6/theme-default.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/.hound.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banner.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/citius брендбук.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/fonts/Apothicaire-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/fonts/Apothicaire-BoldCd.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/fonts/Apothicaire-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/fonts/Genera-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/fonts/Genera.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/fullpage/jquery.easings.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/fullpage/jquery.fullPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/fullpage/jquery.fullPage.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/fullpage/scrolloverflow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/down__btn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/down__btn__animate2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/down__btn__animate3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/down__btn_animate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/115.53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/citius.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/old_icons.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/favicon/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/images/logo2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/scripts/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/scripts/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/styles/fullpage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/styles/fullpage.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citius/styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/citys.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/BebasNeuePro/BebasNeueProBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/BebasNeuePro/BebasNeueProBook.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/BebasNeuePro/BebasNeueProExtraBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/BebasNeuePro/BebasNeueProLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/BebasNeuePro/BebasNeueProMiddle.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/BebasNeuePro/BebasNeueProRegular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/custom/font1.fntdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/custom/font2.fntdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/custom/font3.fntdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/custom/font4.fntdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/custom/font5.fntdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/custom/font6.fntdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/custom/font7.fntdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/custom/font8.fntdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w-favicon.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Whfs0OXt7rWU4zta13OhXi6Q9K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="105882f5-2583-4f06-834a-5c02f2949427" name="Changes" comment="" />
+      <created>1697189935143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697189935143</updated>
+      <workItem from="1697189936643" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
