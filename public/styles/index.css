@@ -42,6 +42,10 @@ body {
     overflow-x: hidden;
 }
 
+.hero-section {
+    overflow-x: hidden;
+}
+
 .logo-description {
     position: relative;
     display: flex;
