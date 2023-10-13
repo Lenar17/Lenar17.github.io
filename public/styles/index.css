@@ -210,11 +210,17 @@ body {
     }
 }
 
-@media (max-width: 370px) {
+@media (max-width: 376px) {
     .logo__left {
         width: 60px;
     }
     .logo__right {
         width: 42px;
+    }
+    .gallery {
+        padding-top: 0;
+    }
+    .gallery__left {
+        margin-top: calc(var(--gallery-gap) * 0.7);
     }
 }

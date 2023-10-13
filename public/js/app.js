@@ -50,9 +50,11 @@ function initAnimations() {
 		delay: 0.5,
 		duration: 2,
 		opacity: 1,
-		width: '100vh',
+		width: window.innerWidth < 376 ? '165vw' : '100vw',
+		maxWidth: window.innerWidth < 376 ? '165vw' : '100vw',
 		ease: 'power3.inOut'
 	});
+	console.log('window.innerHeight ', window.innerWidth)
 }
 
 document.addEventListener('DOMContentLoaded', initAnimations);
