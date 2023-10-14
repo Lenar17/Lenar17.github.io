@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', initAnimations);
 
 
 
-if (ScrollTrigger.isTouch !== 1) {
+//if (ScrollTrigger.isTouch !== 1) {
 
 	ScrollSmoother.create({
 		wrapper: '.wrapper',
@@ -107,4 +107,4 @@ if (ScrollTrigger.isTouch !== 1) {
 			}
 		})
 	})
-}
+//}
