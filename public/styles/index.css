@@ -42,10 +42,6 @@ body {
     overflow-x: hidden;
 }
 
-.hero-section {
-    overflow-x: hidden;
-}
-
 .logo-description {
     position: relative;
     display: flex;
@@ -122,9 +118,13 @@ body {
     position: absolute;
     bottom: 10%;
     min-width: 100vw;
-    width: 0;
+    width: 100vw;
     opacity: 0;
-    height: auto;
+    height: 65%;
+    background-image: url("../img/color-wave.png");
+    background-repeat: no-repeat;
+    background-size: 0;
+    background-position: center;
 }
 
 .gallery {
